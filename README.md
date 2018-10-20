@@ -1,4 +1,4 @@
-# emoji_list_extractor
+# Emoji List Extractor
 
 Grabs the latest version of emojis from unicode.org (https://unicode.org/emoji/charts/emoji-list.html) and converts the table into a nice JSON format. 
 
